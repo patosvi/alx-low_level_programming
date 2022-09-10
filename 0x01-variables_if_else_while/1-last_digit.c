@@ -1,5 +1,5 @@
-#include<stdlib.h>
 #include<time.h>
+#include<stdlib.h>
 #include<stdio.h>		
 /**							
  * main - Determines either greater than 5, is less than 6, or is 0
@@ -9,7 +9,6 @@
 int main(void)
 {
 	int n, lastd;
-
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	lastd = n % 10;
@@ -27,4 +26,4 @@ int main(void)
 	}
 	return (0);
 
-}	
+}
