@@ -1,21 +1,18 @@
 #include <stdio.h>
 
 /**
- * main - Prints the numbersfrom 0 to 9
+ * main - prints numbers from 0 to 9
  *
- * Return: Always (Success}
- */ 
- * int  main(void)
- * {
- * 	char n;
- * 
- * 	for (n = '0'; n <= '9'; n++)
- * 	{
- * 		putchar('n');
- * 	}
- *
- * 	putchar('\n');
- 
- * 	return (0);
- *
- * 	}
+ * return : Always 0 (Success)
+ */
+int main(void)
+{
+int i;
+
+for (i = 0; i < 10; i++)
+{
+printf("%d", i);
+}
+putchar('\n');
+return (0);
+}
