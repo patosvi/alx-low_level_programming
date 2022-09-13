@@ -3,13 +3,13 @@
 /**
  * main - prints numbers from 0 to 9
  *
- * return : Always 0 (Success)
+ * return value : Always 0 (Success)
  */
-int main(void)/*return value is always 0 (success)*/
+int main(void)
 {
 int i;
 
-for (i = 0; i < 10; i++)
+for (i = '0'; i <= '9'; i++)
 {
 printf("%d", i);
 }
