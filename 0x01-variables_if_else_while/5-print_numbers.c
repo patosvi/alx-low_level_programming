@@ -5,7 +5,7 @@
  *
  * return : Always 0 (Success)
  */
-int main(void)
+int main(void)/*return value is always 0 (success)*/
 {
 int i;
 
