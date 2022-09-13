@@ -12,4 +12,5 @@ THIS README.md give an outlook of the projects done in Functions and  Nested loo
 
 4-isalpha.c    The function that checks for alphabetic character.
 
-5-sign.c	Function that prints the sign of a number.
+5-sign.c	Function that prints the sign of a number
+6-abs.c		 function that computes the absolute value of an intege.
