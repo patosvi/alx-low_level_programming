@@ -1,13 +1,9 @@
 #include "main.h"
-
 /**
- * void print_alphabet(void); - Prints alphabet in lowercs
- * @arg: the  void print_alphabet(void); will be used.
- *
- * Return: Always 0 (success) for return value of main .
- *
+ * print_alphabet - Prints the alphabet in lowercase.
+ * Return: Always 0 (Success)
  */
-void print_alphabet(void)/*this is the main function*/
+void print_alphabet(void)
 {
 int i;
 
