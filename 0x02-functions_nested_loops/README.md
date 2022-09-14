@@ -16,4 +16,6 @@ THIS README.md give an outlook of the projects done in Functions and  Nested loo
 6-abs.c		 function that computes the absolute value of an integer.
 7-print_last_digit.c function that prints the last digit of a number
 8-24_hours.c prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
+
 9-times_table.c    function that prints the 9 times table, starting with 0.`
+10-add.c           This function adds two integers and returns the result.
