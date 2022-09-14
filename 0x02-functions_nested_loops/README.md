@@ -19,3 +19,7 @@ THIS README.md give an outlook of the projects done in Functions and  Nested loo
 
 9-times_table.c    function that prints the 9 times table, starting with 0.`
 10-add.c           This function adds two integers and returns the result.
+
+100-times_table.c  function that prints the n times table, starting with 0.
+
+
