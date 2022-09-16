@@ -9,4 +9,4 @@ WE CONTINUE EXPOLRING NESTED LOOPS.
 6. The shortest distance between two points is a straight line:Write a function that draws a straight line in the terminal.
 7. I feel like I am diagonally parked in a parallel universe:Write a function that draws a diagonal line on the terminal.
 8. You are so much sunshine in every square inch
-
+100-prime_factor.c:  Write a program that finds and prints the largest prime factor of the number 612852475143, followed by a new line.
