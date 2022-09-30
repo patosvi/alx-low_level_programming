@@ -10,3 +10,7 @@ If you rename the program, it will print the new name, without having to compile
 2-args.c	:prints all arguments it receives.
 All arguments should be printed, including the first one
 Only print one argument per line, ending with a new line
+3-mul.c	:multiplies two numbers.
+print the result of the multiplication, followed by a new line
+it assumes that the two numbers and result of the multiplication can be stored in an integer
+If the program does not receive two arguments, your program should print Error, followed by a new line, and return 1
