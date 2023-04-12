@@ -8,3 +8,4 @@
 5. Big O #3
 6. Big O #4
 
+7. Jump search
