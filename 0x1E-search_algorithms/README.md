@@ -12,3 +12,4 @@
 8. Big O #5
 9. Interpolation search
 10. Exponential search
+gcc -Wall -Wextra -Werror -pedantic -std=gnu89 104-main.c 104-advanced_binary.c -o 104-advanced_binary
